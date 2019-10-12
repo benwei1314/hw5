@@ -9,6 +9,5 @@ When snake touches the side of the wall or touch it's own body the game ends.
 Makes a sound when apple is eaten and gameover sound.
 I want to make the game more difficult by adding random generated rectangle shapes. Snake touches game over. 
 
-Third idea, I want to recreate the game Sandwich Stacker. Start off with a rectangle. Move rectangle pad using left and right arrow.
-Shapes randomly generates and falls down from top of screen. You want to catch it using the pad. Shapes that you want to catch are circles and rectangles. If caught unwanted triangle, game over. Each time you catch a circle or rectangle, it stacks up. 
+Third idea, I want to recreate the game Lilo and Stitch: Sandwich Stacker. Start off with a rectangle. Move rectangle pad using left and right arrow. Shapes randomly generates and falls down from top of screen. You want to catch it using the pad. Shapes that you want to catch are circles and rectangles. If caught unwanted triangle, game over. Each time you catch a circle or rectangle, it stacks up. 
 When stack is high, it swings left and right because phycis. Makes a sound when catches shapes and game over sound. 
